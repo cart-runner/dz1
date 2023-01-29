@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\apars\\OneDrive\\Рабочий стол\\Homework1\\task4\\task4.csproj": {}
+    "C:\\Users\\apars\\OneDrive\\Рабочий стол\\ДЗ\\Homework1\\task4\\task4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\apars\\OneDrive\\Рабочий стол\\Homework1\\task4\\task4.csproj": {
+    "C:\\Users\\apars\\OneDrive\\Рабочий стол\\ДЗ\\Homework1\\task4\\task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\apars\\OneDrive\\Рабочий стол\\Homework1\\task4\\task4.csproj",
+        "projectUniqueName": "C:\\Users\\apars\\OneDrive\\Рабочий стол\\ДЗ\\Homework1\\task4\\task4.csproj",
         "projectName": "task4",
-        "projectPath": "C:\\Users\\apars\\OneDrive\\Рабочий стол\\Homework1\\task4\\task4.csproj",
+        "projectPath": "C:\\Users\\apars\\OneDrive\\Рабочий стол\\ДЗ\\Homework1\\task4\\task4.csproj",
         "packagesPath": "C:\\Users\\apars\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\apars\\OneDrive\\Рабочий стол\\Homework1\\task4\\obj\\",
+        "outputPath": "C:\\Users\\apars\\OneDrive\\Рабочий стол\\ДЗ\\Homework1\\task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\apars\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -5,7 +5,7 @@ Console.WriteLine("введите второе число");
 int numberB = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("введите третье число");
 int numberC = Convert.ToInt32(Console.ReadLine());
-int max = 0;
+int max = numberA;
 if (numberA > max) max = numberA;
 if (numberB > max) max = numberB;
 if (numberC > max) max = numberC;
